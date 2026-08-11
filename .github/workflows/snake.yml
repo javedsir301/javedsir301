@@ -22,7 +22,7 @@ jobs:
             dist/snake-light.svg?palette=github-light&color_snake=%230891B2&color_dots=%23DCEAF0,%2397C8D7,%2358A5BA,%232A7D96,%23115770
             dist/snake-dark.svg?palette=github-dark&color_snake=%2322D3EE&color_dots=%232d3343,%233B5269,%23296B81,%231EA8B7,%2322D3EE
       - name: Publish generated assets
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v5
         with:
           build_dir: dist
           target_branch: output
