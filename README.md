@@ -8,12 +8,12 @@
 
 ## Contribution Snake
 
-This animation is generated from my GitHub contribution graph and updates automatically.
+This animation is a custom snake-style banner designed to stay full and animated all year.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/javedsir301/javedsir301/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/javedsir301/javedsir301/output/snake-light.svg">
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/javedsir301/javedsir301/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/javedsir301/javedsir301/main/assets/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/javedsir301/javedsir301/main/assets/snake-light.svg">
+  <img alt="Decorative snake animation" src="https://raw.githubusercontent.com/javedsir301/javedsir301/main/assets/snake-dark.svg">
 </picture>
 
 <p align="center">
