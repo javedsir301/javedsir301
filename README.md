@@ -6,19 +6,14 @@
 
 <br />
 
-<p align="center">
-  <img width="49%" src="YOUR_VERCEL_STATS_INSTANCE/api?username=javedsir301&show_icons=true&hide_rank=true&bg_color=0A101F&title_color=22D3EE&text_color=D7F8FF&icon_color=10B981&border_color=1E3850" alt="Javed's GitHub statistics" />
-  <img width="49%" src="YOUR_VERCEL_STATS_INSTANCE/api/top-langs/?username=javedsir301&layout=compact&bg_color=0A101F&title_color=22D3EE&text_color=D7F8FF&border_color=1E3850" alt="Javed's most used languages" />
-</p>
+## Contribution Snake
 
-<p align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=javedsir301&background=0A101F&border=1E3850&ring=10B981&fire=22D3EE&currStreakLabel=D7F8FF&sideLabels=75A7B7&dates=75A7B7" alt="Javed's contribution streak" />
-</p>
+This animation is generated from my GitHub contribution graph and updates automatically.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/javedsir301/javedsir301/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/javedsir301/javedsir301/output/snake-light.svg">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/javedsir301/javedsir301/output/snake-dark.svg">
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/javedsir301/javedsir301/output/snake-dark.svg">
 </picture>
 
 <p align="center">
